@@ -50,7 +50,7 @@ section{
     padding-bottom:10vh;
     line-height: 2em;
     padding-left: 30px;
-    font-size: 1em;
+    font-size: 2vw;
     font-family: var(--font3);
 }
 section.normal{
@@ -72,6 +72,7 @@ section.imagem > p{
     display: inline-block;
     padding: 5px;
     padding-left: 10px;
+    
     text-shadow: 1px 1px 2px black;
    
 }
